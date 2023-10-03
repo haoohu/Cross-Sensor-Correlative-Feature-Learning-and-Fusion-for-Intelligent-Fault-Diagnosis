@@ -3,3 +3,4 @@ This repository is the Pytorch code for our paper "_**Cross-Sensor Correlative F
 
 Paper Link: (https://doi.org/10.1109/TII.2023.3313655)
 
+![image](https://github.com/haoohu/Cross-Sensor-Correlative-Feature-Learning-and-Fusion-for-Intelligent-Fault-Diagnosis/blob/main/Flowchart.png)
