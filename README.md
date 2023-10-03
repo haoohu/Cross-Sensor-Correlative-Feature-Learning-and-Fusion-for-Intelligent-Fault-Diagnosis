@@ -1,4 +1,4 @@
-# CSCFL
+# CSCLF
 This repository is the Pytorch code for our paper "_**Cross-Sensor Correlative Feature Learning and Fusion for Intelligent Fault Diagnosis**_".
 
 
