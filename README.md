@@ -10,7 +10,7 @@ Paper Link: (https://doi.org/10.1109/TII.2023.3313655)
 Please consider citing our paper if you find it helpful in your research:
 
 ```
-@ARTICLE{10255304,
+@ARTICLE{CSCLF,
   author={Feng, Zhixi and Hu, Hao and Yang, Shuyuan},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={Cross-Sensor Correlative Feature Learning and Fusion for Intelligent Fault Diagnosis}, 
